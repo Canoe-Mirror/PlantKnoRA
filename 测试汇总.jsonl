@@ -1,0 +1,120 @@
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物最可能分布在年平均气温 (MAT) > 18°C、年降水量 (AP) > 1400mm 的区域？A. 兰屿桫椤 (Alsophila fenicci)B. 秦岭冷杉 (Abies chensiensis)C. 怒江红杉 (Larix speciosa)D. 青海云杉 (Picea crassifolia)", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物的潜在蒸散量 (PET) 为 1050mm，年实际蒸发蒸腾量 (AET) 为 1020mm，最可能是以下哪种植物？A. 毛叶桫椤 (Alsophila andersonii)B. 杉木 (Cunninghamia lanceolata)C. 紫果云杉 (Picea purpurea)D. 金钱松 (Pseudolarix amabilis)", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪种植物在温暖指数 (WI) > 175、湿度指数 (Im) > 45 的湿润区域分布最广？A. 大叶黑桫椤 (Alsophila gigantea)B. 巴山冷杉 (Abies fargesii)C. 红杉 (Larix potaninii)D. 麦吊云杉 (Picea brachytyla)", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物的最冷月平均气温 (MTCM) 为 -8°C，最暖月平均气温 (MTWM) 为 21°C，可能是以下哪种？A. 雪岭云杉 (Picea schrenkiana)B. 阴生桫椤 (Alsophila laterosa)C. 篦齿苏铁 (Cycas pectinata)D. 金毛狗脊 (Cibotium barometz)", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物在年生物温度 (ABT) < 9°C、年降水量 (AP) < 480mm 的高寒干旱区最可能存活？A. 西藏冷杉 (Abies spectabilis)B. 粗齿桫椤 (Alsophila denticulata)C. 叉叶苏铁 (Cycas micholitzii)D. 火炬松 (Pinus taeda)", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物最可能分布在年平均气温 (MAT) > 21°C、年降水量 (AP) > 1550mm 的区域？A. 海南桫椤 (Alsophila hainanensis)B. 臭冷杉 (Abies nephrolepis)C. 兴安落叶松 (Larix gmelinii)D. 水杉 (Metasequoia glyptostroboides)", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物的潜在蒸散量 (PET) 为 980mm，年实际蒸发蒸腾量 (AET) 为 950mm，最可能是以下哪种植物？ A. 黑桫椤 (Alsophila podophylla) B. 湿地松 (Pinus elliottii) C. 青杄 (Picea wilsonii) D. 白豆杉 (Pseudotaxus chienii)", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪种植物在温暖指数 (WI) > 182、湿度指数 (Im) > 52 的湿润区域分布最广？A. 中华桫椤 (Alsophila costularis)B. 黄果冷杉 (Abies ernestii)C. 太白红杉 (Larix chinensis)D. 川西云杉 (Picea likiangensis var. balfouriana)", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物的最冷月平均气温 (MTCM) 为 -9°C，最暖月平均气温 (MTWM) 为 23°C，可能是以下哪种？A. 天山云杉 (Picea schrenkiana var. tianschanica)B. 齿叶黑桫椤 (Alsophila denticulata)C. 德保苏铁 (Cycas debaoensis)D. 桫椤 (Alsophila spinulosa)", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物在年生物温度 (ABT) < 8°C、年降水量 (AP) < 430mm 的高寒干旱区最可能存活？A. 西伯利亚冷杉 (Abies sibirica)B. 笔筒树 (Sphaeropteris lepifera)C. 攀枝花苏铁 (Cycas panzhihuaensis)D. 马尾松 (Pinus massoniana)", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物最可能分布在年平均气温 (MAT) > 19°C、年降水量 (AP) > 1450mm 的区域？A. 南洋桫椤 (Alsophila loheri)B. 长苞冷杉 (Abies georgei)C. 黄花落叶松 (Larix olgensis)D. 珙桐 (Davidia involucrata)", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物的潜在蒸散量 (PET) 为 1020mm，年实际蒸发蒸腾量 (AET) 为 990mm，最可能是以下哪种植物？A. 毛叶桫椤 (Alsophila andersonii)B. 日本落叶松 (Larix kaempferi)C. 巴山松 (Pinus henryi)D. 榧树 (Torreya grandis)", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪种植物在温暖指数 (WI) > 178、湿度指数 (Im) > 48 的湿润区域分布最广？A. 大叶黑桫椤 (Alsophila gigantea)B. 秦岭冷杉 (Abies chensiensis)C. 大果红杉 (Larix potaninii var. macrocarpa)D. 油麦吊云杉 (Picea brachytyla var. complanata)", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物的最冷月平均气温 (MTCM) 为 -11°C，最暖月平均气温 (MTWM) 为 22.5°C，可能是以下哪种？A. 雪岭云杉 (Picea schrenkiana)B. 滇南桫椤 (Alsophila austro-yunnanensis)C. 海南苏铁 (Cycas hainanensis)D. 鹿角蕨 (Platycerium wallichii)", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物在年生物温度 (ABT) < 9.5°C、年降水量 (AP) < 460mm 的高寒干旱区最可能存活？A. 西藏冷杉 (Abies spectabilis)B. 扫把蕨 (Diploblechnum fraseri)C. 多歧苏铁 (Cycas multipinnata)D. 火炬松 (Pinus taeda)", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物最可能分布在年平均气温 (MAT) > 22°C、年降水量 (AP) > 1600mm 的区域？A. 海南买麻藤 (Gnetum hainanense)B. 臭冷杉 (Abies nephrolepis)C. 兴安落叶松 (Larix gmelinii)D. 水杉 (Metasequoia glyptostroboides)", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物的潜在蒸散量 (PET) 为 1080mm，年实际蒸发蒸腾量 (AET) 为 1030mm，最可能是以下哪种植物？A. 黑桫椤 (Alsophila podophylla)B. 湿地松 (Pinus elliottii)C. 青杄 (Picea wilsonii)D. 白豆杉 (Pseudotaxus chienii)", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪种植物在温暖指数 (WI) > 185、湿度指数 (Im) > 54 的湿润区域分布最广？A. 中华桫椤 (Alsophila costularis)B. 黄果冷杉 (Abies ernestii)C. 太白红杉 (Larix chinensis)D. 川西云杉 (Picea likiangensis var. balfouriana)", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物的最冷月平均气温 (MTCM) 为 -10°C，最暖月平均气温 (MTWM) 为 24°C，可能是以下哪种？A. 天山云杉 (Picea schrenkiana var. tianschanica)B. 齿叶黑桫椤 (Alsophila denticulata)C. 德保苏铁 (Cycas debaoensis)D. 桫椤 (Alsophila spinulosa)", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物在年生物温度 (ABT) < 8.5°C、年降水量 (AP) < 440mm 的高寒干旱区最可能存活？A. 西伯利亚冷杉 (Abies sibirica)B. 笔筒树 (Sphaeropteris lepifera)C. 攀枝花苏铁 (Cycas panzhihuaensis)D. 马尾松 (Pinus massoniana)", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物最可能分布在年平均气温 (MAT)>20°C、年降水量 (AP)>1600mm 的区域？A. 长叶竹柏 (Nageia fleuryi)B. 白皮松 (Pinus bungeana)C. 油松 (Pinus tabuliformis)D. 云南油杉 (Keteleeria evelyniana)", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物的潜在蒸散量 (PET) 为 980mm，年实际蒸发蒸腾量 (AET) 为 930mm，最可能是以下哪种植物？A. 黑桫椤 (Alsophila podophylla)B. 杉木 (Cunninghamia lanceolata)C. 紫果云杉 (Picea purpurea)D. 银杏 (Ginkgo biloba)", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪种植物在温暖指数 (WI)>180、湿度指数 (Im)>50 的湿润热带区域分布最广？A. 南洋桫椤 (Alsophila loheri)B. 秦岭冷杉 (Abies chensiensis)C. 怒江红杉 (Larix speciosa)D. 青海云杉 (Picea crassifolia)", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物的最冷月平均气温 (MTCM) 为 -9°C，最暖月平均气温 (MTWM) 为 23°C，可能是以下哪种？A. 雪岭云杉 (Picea schrenkiana)B. 滇南桫椤 (Alsophila austro-yunnanensis)C. 海南苏铁 (Cycas hainanensis)D. 台湾苏铁 (Cycas taiwaniana)", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物在年生物温度 (ABT)<9°C、年降水量 (AP)<450mm 的高寒干旱区最可能存活？A. 西伯利亚云杉 (Picea obovata)B. 扫把蕨 (Diploblechnum fraseri)C. 多歧苏铁 (Cycas multipinnata)D. 马尾松 (Pinus massoniana)", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "番荔枝科（Annonaceae）不包含以下哪个属？A. 番荔枝属（Annona）B. 鹰爪花属（Artabotrys）C. 榕属（Ficus）D. 紫玉盘属（Uvaria）", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "樟科（Lauraceae）不包含以下哪个属？A. 樟属（Cinnamomum）B. 润楠属（Machilus）C. 蔷薇属（Rosa）D. 楠木属（Phoebe）", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "毛茛科（Ranunculaceae）不包含以下哪个属？A. 毛茛属（Ranunculus）B. 银莲花属（Anemone）C. 铁线莲属（Clematis）D. 葡萄属（Vitis）", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "十字花科（Brassicaceae）不包含以下哪个属？A. 芸苔属（Brassica）B. 松属（Pinus）C. 独行菜属（Lepidium）D. 蔊菜属（Rorippa）", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "豆科（Fabaceae）不包含以下哪个属？A. 杜鹃属（Rhododendron）B. 槐属（Sophora）C. 大豆属（Glycine）D. 苜蓿属（Medicago）", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "「植株矮小，通常无明显主干，且为多年生」最可能描述：A. Trees B. Shrubs C. Herbs D. Lianas", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "「具有细长茎，自身不能直立生长，需借助其他物体向上攀缘，茎木质化程度较高」最可能描述：A. Annuals B. Perennials C. Climbing plants D. Succulents", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "「一般具有明显高大主干，植株较为高大」最可能描述：A. Grasses B. Ferns C. Trees D. Mosses", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "「植物体通常矮小，结构简单，没有真正的根、茎、叶分化」最可能描述：A. Bryophytes B. Gymnosperms C. Angiosperms D. Pteridophytes", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "「茎柔软，一般在一年内完成生命周期」最可能描述：A. Biennials B. Annuals C. Perennials D. Epiphytes", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "若某植物被鉴定为「松科 - 云杉属 - 云杉种」，其生长类型不可能是： A. Trees、deciduous B. Trees、evergreen C. Shrubs、evergreen D. Small trees、evergreen", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "若某植物被鉴定为「柏科 - 圆柏属 - 圆柏种」，其生长类型不可能是：A. Shrubs、deciduous B. Trees、evergreen C. Shrubs or trees、evergreen D. Small trees、evergreen", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "若某植物被鉴定为「杨柳科 - 杨属 - 毛白杨种」，其生长类型不可能是：A. Trees、evergreen B. Trees、deciduous C. Shrubs、deciduous D. Small trees、deciduous", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "若某植物被鉴定为「红豆杉科 - 红豆杉属 - 红豆杉种」，其生长类型不可能是：A. Shrubs、deciduous B. Trees、evergreen C. Small trees、evergreen D. Shrubs or small trees、evergreen", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "若某植物被鉴定为「Cyatheaceae 桫椤科 - Alsophila 桫椤属 - Alsophila spinulosa Wall. ex Hook. 桫椤」，其生长类型不可能是：A. Shrubs、deciduous B. Trees C. Small trees D. Shrubs or small trees、evergreen", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物分类信息为「Cyatheaceae 桫椤科 - Alsophila 桫椤属 - Alsophila andersonii Scott ex Bedd. 毛叶桫椤」，其生长类型应标记为：A. Shrubs B. Trees C. Herbs D. Lianas", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物分类信息为「Cyatheaceae 桫椤科 - Alsophila 桫椤属 - Alsophila austro-yunnanensis S. G. Lu 滇南桫椤」，其生长类型应标记为：A. Annuals B. Perennials C. Trees D. Climbing plants", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物分类信息为「Cyatheaceae 桫椤科 - Alsophila 桫椤属 - Alsophila costularis Baker 中华桫椤」，其生长类型应标记为：A. Ferns B. Gymnosperms C. Trees D. Angiosperms", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物分类信息为「Cyatheaceae 桫椤科 - Alsophila 桫椤属 - Alsophila denticulata Baker 粗齿桫椤」，其生长类型应标记为：A. Shrubs B. Trees C. Vines D. Epiphytes", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物分类信息为「Cyatheaceae 桫椤科 - Alsophila 桫椤属 - Alsophila fenicci (Copel) C. Chr. 兰屿桫椤」，其生长类型应标记为：A. Herbs B. Shrubs C. Trees D. Succulents", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为桫椤科（Cyatheaceae），以下哪项形态特征最不可能出现？A. 叶柄具深褐色鳞片和刺 B. 孢子囊群靠近中脉，无囊群盖 C. 掌状复叶 D. 树干直立，高达15米", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为柏科（Cupressaceae），以下哪项形态特征最不可能出现？A. 叶鳞形或针形，背面具腺体 B. 球果木质或肉质，种鳞数目固定 C. 枝条四棱形或圆柱形 D. 掌状复叶，裂片辐射状排列", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为松科，以下哪项形态特征最不可能出现？A. 叶片为针形或线形，单生或成束 B. 球果由种鳞和苞片组成，成熟后开裂 C. 种子具膜质翅，借助风力传播 D. 叶片为复叶，羽状排列", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为榆科（Ulmaceae），以下哪项形态特征最不可能出现？ A. 单叶互生，边缘具锯齿 B. 托叶线形披针形，早落 C. 羽状复叶，小叶对生 D. 翅果或核果，宿存花被", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为木兰科，以下哪项形态特征最不可能出现？ A. 花被片9-12片，白色，芳香 B. 叶片革质，侧脉明显，网脉密集 C. 果实为核果，外果皮肉质 D. 托叶痕显著，几乎达叶柄顶端", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为桫椤科（Cyatheaceae），其叶的主要特征是？A. 单叶全缘，叶脉平行 B. 掌状复叶，裂片辐射状排列 C. 二至三回羽状深裂，叶柄具刺和鳞片 D. 对生羽状复叶，叶缘锯齿明显", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为柏科（Cupressaceae），其叶的主要特征是？ A. 单叶全缘，叶脉平行 B. 掌状复叶，裂片辐射状排列 C. 鳞形或针形叶，背面具腺体或气孔带 D. 对生羽状复叶，叶缘锯齿明显", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为松科，其叶的主要特征是？ A. 单叶，针形或线形，常螺旋状排列或簇生 B. 复叶，羽状排列，具托叶 C. 叶片宽大，掌状分裂，具网状叶脉 D. 叶片退化为鳞片状，无气孔", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "榆科植物的果实类型中，以下哪一项是榆属（Ulmus）的典型特征？ A. 核果近球形，果核具肋 B. 坚果具宽翅，内果皮骨质 C. 翅果近圆形，顶端凹陷 D. 聚花果肉质，可食用", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为木兰科，其花的主要特征是？ A. 花被片通常为3片，单轮排列，无芳香 B. 雄蕊药隔不伸出，花药侧向开裂 C. 花被片9-12片，多轮排列，芳香，雄蕊药隔常伸出形成尖头 D. 雌蕊群完全合生为单一心皮，柱头分裂为3裂", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物形态描述如下：“叶二回羽状深裂，叶柄深紫色，具刺和密集的深褐色鳞片，羽轴和小羽轴被棕色硬毛，孢子囊群靠近中脉且无囊群盖，树干直立，高达10米。”该植物最可能属于以下哪一科？ A. 五加科（Araliaceae） B. 桫椤科（Cyatheaceae） C. 木犀科（Oleaceae） D. 百合科（Liliaceae）", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物形态描述如下：“成年植株叶为鳞形，紧密贴生，背面具明显腺体；枝条四棱形；球果木质，成熟时褐色，直径约1厘米。”该植物最可能属于哪一科？ A. 松科（Pinaceae） B. 五加科（Araliaceae） C. 杉科（Taxodiaceae） D. 柏科（Cupressaceae）", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物形态描述如下：常绿乔木，叶为针形或线形，单生或2-5针成束，螺旋状排列。球果由木质种鳞和苞片组成，成熟后开裂，种子具膜质翅。树皮常呈鳞片状剥落，小枝具明显叶痕。该植物最可能属于哪一科？ A. 柏科（Cupressaceae） B. 松科（Pinaceae） C. 杉科（Taxodiaceae） D. 红豆杉科（Taxaceae）", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某榆科植物的描述为“核果近球形，成熟时黑蓝色，果核具网状凹穴”，其最可能属于以下哪一属？ A. 榆属（Ulmus） B. 朴属（Celtis） C. 刺榆属（Hemiptelea） D. 青檀属（Pteroceltis）", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物形态描述如下：“树高可达20米，叶片倒卵形，背面密被锈褐色绒毛，花被片9-12片，白色，芳香，聚合果卵形。”该植物最可能属于哪一科？ A. 蔷薇科 B. 木兰科 C. 樟科 D. 豆科", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物形态描述如下：“树干直立，高 3 - 5 米，直径约 8 厘米；叶柄宿存形成裙边，密生小疣和刺；叶片二回羽状深裂，羽轴和小羽轴被棕色硬毛，孢子囊群无囊群盖。”该植物的生长类型最可能是？ A. Herbs B. Shrubs C. Small trees D. Deciduous", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物形态描述如下：“灌木匍匐生长；树皮紫褐色；小枝排列紧密，直径约1毫米；叶兼具鳞形叶和刺形叶，交互对生。”该植物的生长类型最可能是？ A. Shrubs B. Trees C. Small trees D. Herbs", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物形态描述如下：灌木，高1-2米，从基部分枝，叶为针形，2针一束，长5-8厘米，坚硬。球果簇生，长4-5厘米，宿存，成熟时不开裂。树皮淡灰色，不规则鳞片状剥落。该植物的生长类型最可能是？ A. Trees, evergreen B. Trees, deciduous C. Shrubs, evergreen D. Small trees, deciduous", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "榆科植物中，以下哪种生长类型最不可能出现？ A. Trees、deciduous B. Shrubs、evergreen C. Small trees D. Trees、semievergreen", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物形态描述如下：“树或灌木，高2-4米，无毛，树皮灰色。小枝绿色，光滑，叶片革质，椭圆形，上面深绿色有光泽，托叶痕达叶柄顶端。”该植物的生长类型最可能是？ A. Trees, deciduous B. Shrubs, evergreen C. Small trees, deciduous D. Herbs, perennial", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "刺柏属（Juniperus）与柏属（Cupressus）的形态关键区别在于？ A. 刺柏属叶为单叶全缘，柏属叶为羽状复叶 B. 刺柏属球果肉质且较小，柏属球果木质且较大 C. 刺柏属枝条均为圆柱形，柏属枝条四棱形 D. 刺柏属仅具鳞形叶，柏属兼具针形与鳞形叶", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "松属（Pinus）与冷杉属（Abies）的形态关键区别在于以下哪项？ A. 松属叶为针形且成束，冷杉属叶为线形且单生 B. 松属球果直立，冷杉属球果下垂 C. 松属种子无翅，冷杉属种子具翅 D. 松属树皮光滑，冷杉属树皮纵裂", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "山黄麻属（Trema）和榆属（Ulmus）的形态关键区别在于以下哪项？ A. 山黄麻属叶为对生，榆属叶为互生 B. 山黄麻属果实为核果，榆属果实为翅果 C. 山黄麻属枝条具木栓翅，榆属枝条无翅 D. 山黄麻属托叶缺失，榆属托叶显著", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "“木莲属”与“含笑属”的形态关键区别在于？ A. 木莲属花被片多为红色，含笑属为白色 B. 木莲属雌蕊群无柄，含笑属雌蕊群具柄 C. 木莲属叶片基部楔形，含笑属叶片基部心形 D. 木莲属果实为浆果，含笑属为蒴果", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "“鹅掌楸属（Liriodendron）”与“木兰属（Magnolia）”的形态关键区别在于？ A. 鹅掌楸属叶片基部心形，木兰属叶片基部楔形 B. 鹅掌楸属花被片仅一轮，木兰属花被片多轮排列 C. 鹅掌楸属叶片具侧裂片，木兰属叶片全缘D. 鹅掌楸属果实为核果，木兰属果实为蒴果", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪组分类单元按「科-属-种」层级排列正确？A. 豆科 → 槐属 → 国槐B. 松科 → 雪松 → 雪松属C. 蔷薇属 → 蔷薇科 → 玫瑰D. 樟属 → 香樟 → 樟科", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪个属不属于蔷薇科（Rosaceae）？A. 苹果属（Malus）B. 蔷薇属（Rosa）C. 冷杉属（Abies）D. 悬钩子属（Rubus）", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪个种不属于松科（Pinaceae）植物？A. 油松（Pinus tabuliformis）B. 云杉（Picea asperata）C. 侧柏（Platycladus orientalis）D. 落叶松（Larix gmelinii）", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "禾本科（Poaceae）不包含以下哪个属？A. 小麦属（Triticum）B. 玉米属（Zea）C. 高粱属（Sorghum）D. 向日葵属（Helianthus）", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪个植物种不属于豆科（Fabaceae）？A. 紫荆（Cercis chinensis）B. 合欢（Albizia julibrissin）C. 银杏（Ginkgo biloba）D. 紫藤（Wisteria sinensis）", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪个属不属于菊科（Asteraceae）？A. 菊属（Dendranthema）B. 蒿属（Artemisia）C. 栎属（Quercus）D. 蒲公英属（Taraxacum）", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "木兰科（Magnoliaceae）不包含以下哪个属？A. 木兰属（Magnolia）B. 含笑属（Michelia）C. 鹅掌楸属（Liriodendron）D. 杨属（Populus）", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪组分类层级错误？A. 壳斗科 → 栎属 → 栓皮栎B. 杨柳科 → 杨属 → 毛白杨C. 柏科 → 侧柏属 → 雪松D. 百合科 → 百合属 → 卷丹", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪个属不属于唇形科（Lamiaceae）？A. 薄荷属（Mentha）B. 黄芩属（Scutellaria）C. 紫苏属（Perilla）D. 三叶草属（Trifolium）", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪个种不属于樟科（Lauraceae）？A. 樟树（Cinnamomum camphora）B. 楠木（Phoebe zhennan）C. 月桂（Laurus nobilis）D. 桂花（Osmanthus fragrans）", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "「茎基部木质化，上部草质，高度通常＜1米」描述的是：A. TreesB. ShrubsC. SubshrubsD. Herbaceous perennials", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物最可能是「Scandent shrub」？A. 紫藤（Wisteria sinensis）B. 玫瑰（Rosa rugosa）C. 油松（Pinus tabuliformis）D. 蒲公英（Taraxacum mongolicum）", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪种生长类型不可能出现在「茄科-茄属」中？A. Herbaceous annualB. Evergreen treeC. Tuberous plantD. Perennial vine", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "「木质茎，高度＞6米，有明显主干」描述的是：A. ShrubsB. TreesC. VinesD. Subshrubs", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物属于「Herbaceous perennial」？A. 银杏（Ginkgo biloba）B. 芍药（Paeonia lactiflora）C. 毛白杨（Populus tomentosa）D. 雪松（Cedrus deodara）", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物分类为「葡萄科-葡萄属-葡萄（Vitis vinifera）」，其生长类型是：A. Deciduous treeB. Evergreen shrubC. Climbing vineD. Herbaceous annual", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪种植物不属于「Evergreen tree」？A. 雪松（Cedrus deodara）B. 圆柏（Juniperus chinensis）C. 国槐（Sophora japonica）D. 樟树（Cinnamomum camphora）", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "「茎细长匍匐，节上生根」最可能描述：A. Scandent shrubsB. Prostrate herbsC. Tuberous plantsD. Deciduous trees", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物属于「Deciduous shrub」？A. 紫荆（Cercis chinensis）B. 桂花（Osmanthus fragrans）C. 侧柏（Platycladus orientalis）D. 毛竹（Phyllostachys edulis）", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "「地下具膨大储藏器官，地上部分每年枯萎」描述的是：A. Biennial herbsB. Tuberous plantsC. Evergreen shrubsD. Climbing vines", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "若某植物被鉴定为「百合科-百合属-卷丹（Lilium lancifolium）」，其生长类型是：A. Herbaceous perennialB. Evergreen shrubC. Deciduous treeD. Climbing vine", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物分类信息为「壳斗科-栎属-栓皮栎（Quercus variabilis）」，其生长类型不可能是：A. Deciduous treeB. Evergreen treeC. Scandent shrubD. Drought-tolerant tree", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "根据「豆科-紫荆属-紫荆（Cercis chinensis）」的分类信息，其生长类型应标记为：A. Evergreen treeB. Deciduous shrubC. Herbaceous vineD. Tuberous plant", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪种植物的生长类型与其他三项不同？A. 毛白杨（Populus tomentosa）B. 雪松（Cedrus deodara）C. 国槐（Sophora japonica）D. 紫藤（Wisteria sinensis）", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物同时具有「樟科-樟属-香樟（Cinnamomum camphora）」和「Evergreen tree」标签，其不可能的特征是：A. 高度可达20米B. 冬季落叶C. 树皮纵裂D. 叶片革质", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪组植物属于同一科？A. 月季（Rosa chinensis）与苹果（Malus pumila）B. 银杏（Ginkgo biloba）与雪松（Cedrus deodara）C. 玉米（Zea mays）与大豆（Glycine max）D. 桂花（Osmanthus fragrans）与樟树（Cinnamomum camphora）", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪种植物的科-属-种关系错误？A. 菊科-向日葵属-向日葵（Helianthus annuus）B. 禾本科-竹属-毛竹（Phyllostachys edulis）C. 松科-松属-侧柏（Platycladus orientalis）D. 豆科-槐属-国槐（Sophora japonica）", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "下列哪项植物的生长类型与科属匹配错误？A. 蔷薇科-蔷薇属-玫瑰（Rosa rugosa）：Deciduous shrubB. 禾本科-小麦属-小麦（Triticum aestivum）：Herbaceous annualC. 松科-松属-华山松（Pinus armandii）：Evergreen vineD. 木犀科-女贞属-女贞（Ligustrum lucidum）：Evergreen shrub", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物分类为「杨柳科-杨属-毛白杨（Populus tomentosa）」，其生长类型不可能是：A. Deciduous treeB. Fast-growing treeC. Evergreen shrubD. Dioecious plant", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪组植物的生长类型完全相同？A. 油松（Pinus tabuliformis）与雪松（Cedrus deodara）B. 紫藤（Wisteria sinensis）与葡萄（Vitis vinifera）C. 芍药（Paeonia lactiflora）与牡丹（Paeonia suffruticosa）D. 国槐（Sophora japonica）与银杏（Ginkgo biloba）", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为桫椤科（Cyatheaceae），以下哪种情况不会出现于其叶柄形态？A. 有稀疏的散生鳞片 B. 有细刺或小疣 C. 完全光滑无任何附属物 D. 有密集的鳞片", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "榆科榆属（Ulmus）植物的果实类型典型特征是？A. 核果近球形，果核具肋 B. 坚果具宽翅，内果皮骨质 C. 翅果近圆形，顶端凹陷 D. 聚花果肉质，可食用", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "关于桫椤科植物孢子囊群，错误的描述是？A. 靠近能育小羽片裂片的中脉 B. 位于侧脉分叉处 C. 一定有囊群盖 D. 无囊群盖也是常见情况", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物被鉴定为胡桃科（Juglandaceae），其果实类型通常是？A. 核果 B. 坚果，外被肉质或革质总苞 C. 蒴果 D. 荚果", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "杉科（Taxodiaceae）植物的叶，通常不会具有以下哪种特征？A. 叶螺旋状排列 B. 叶对生或轮生 C. 叶为鳞形或钻形 D. 叶宽大，呈掌状", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物叶为针形或线形，单生或 2 - 5 针成束，螺旋状排列，球果由木质种鳞和苞片组成，成熟后开裂，种子具膜质翅，它最可能属于？A. 柏科 B. 松科 C. 杉科 D. 红豆杉科", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物成年植株叶为鳞形，紧密贴生，背面具明显腺体，枝条四棱形，球果木质，成熟时褐色，直径约 1 厘米，该植物属于？A. 松科 B. 五加科 C. 杉科 D. 柏科", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下哪种形态特征不是柏科植物常见的？A. 叶鳞形或针形 B. 球果肉质 C. 枝条圆柱形 D. 叶片宽大且有明显锯齿", "output": "D"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物树干直立，高 3 - 5 米，直径约 8 厘米，叶柄宿存形成裙边，密生小疣和刺，叶片二回羽状深裂，羽轴和小羽轴被棕色硬毛，孢子囊群无囊群盖，其生长类型是？A. HerbsB. ShrubsC. Small treesD. Deciduous", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某灌木匍匐生长，树皮紫褐色，小枝排列紧密，直径约 1 毫米，叶兼具鳞形叶和刺形叶，交互对生，它的生长类型是？A. ShrubsB. TreesC. Small treesD. Herbs", "output": "A"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "刺柏属（Juniperus）与柏属（Cupressus）在球果形态上的关键区别是？A. 刺柏属球果更大 B. 柏属球果肉质 C. 刺柏属球果肉质且较小，柏属球果木质且较大 D. 两者球果无明显区别", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "松属（Pinus）与冷杉属（Abies）在叶形态上的关键区别是？A. 松属叶为线形且单生，冷杉属叶为针形且成束 B. 松属叶为针形且成束，冷杉属叶为线形且单生 C. 松属叶有锯齿，冷杉属叶全缘 D. 松属叶光滑，冷杉属叶有绒毛", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "山黄麻属（Trema）和榆属（Ulmus）在果实形态上的关键区别是？A. 山黄麻属果实为翅果，榆属果实为核果 B. 山黄麻属果实为核果，榆属果实为翅果 C. 两者果实都是浆果 D. 两者果实形态一样", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "“木莲属” 与 “含笑属” 在雌蕊群形态上的关键区别是？A. 木莲属雌蕊群具柄，含笑属雌蕊群无柄 B. 木莲属雌蕊群无柄，含笑属雌蕊群具柄 C. 两者雌蕊群都无柄 D. 两者雌蕊群都具柄", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "“鹅掌楸属（Liriodendron）” 与 “木兰属（Magnolia）” 在叶片形态上的关键区别是？A. 鹅掌楸属叶片全缘，木兰属叶片具侧裂片B. 鹅掌楸属叶片具侧裂片，木兰属叶片全缘C. 两者叶片都全缘D. 两者叶片都具侧裂片", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "桫椤科植物叶片纸质，下面颜色一般不会是？A. 淡棕色B. 淡绿色C. 深紫色D. 稻草色", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "某植物小羽片互生，开展，披针形，长 8 - 13×1.5 - 2.5 厘米，中部较宽，基部截形，有短柄，羽状深裂几乎达小羽轴，该植物可能是？A. 毛叶桫椤B. 滇南桫椤C. 中华桫椤D. 粗齿桫椤", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "桫椤科植物叶柄基部鳞片的形态，不常见的是？A. 披针形B. 线形C. 圆形D. 卵形", "output": "C"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "以下关于某植物 “孢子囊群位于中部，靠近中脉，每裂片约 10 对，成熟时覆盖整个裂片；无囊群盖” 的描述，符合哪种植物特征？A. 毛叶桫椤B. 滇南桫椤C. 中华桫椤D. 兰屿桫椤", "output": "B"}
+{"instruction": "请根据植物学知识选择正确的答案选项，只需输出选项字母。", "input": "桫椤科植物叶轴颜色一般不会是？A. 深紫色B. 棕色C. 绿色D. 白色", "output": "D"}
